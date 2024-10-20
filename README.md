@@ -43,6 +43,12 @@ Protect sensitive user data on portals with strong securtiy protocols
 
 ## Running the Code:
 
+To run 'web.html':
+
+```bash
+html web.html
+```
+
 
 
 
@@ -55,7 +61,5 @@ Protect sensitive user data on portals with strong securtiy protocols
 
 ![Screenshot 2024-10-20 092430](https://github.com/user-attachments/assets/75d18432-8bd1-4713-bdc2-1dbf3ab93905)
 
-
-## Output:
 
 
